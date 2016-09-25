@@ -83,7 +83,7 @@ projects[link][subdir] = contrib
 
 projects[apps][version] = 1.0
 projects[apps][subdir] = contrib
-projects[apps][patch][] = https://www.drupal.org/files/issues/apps-manifest-2753413-3.patch
+projects[apps][patch][] = https://gist.githubusercontent.com/jon-nunan/2f1f6fa48a63e55bed4b86880b4920da/raw/f661f22517fea322b1e468f3f66314312a0e39c5/apps-manifest-2753413-3.patch
 
 projects[features][version] = 2.10
 projects[features][subdir] = contrib
