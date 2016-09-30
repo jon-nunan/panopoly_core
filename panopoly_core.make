@@ -83,7 +83,7 @@ projects[link][subdir] = contrib
 
 projects[apps][version] = 1.0
 projects[apps][subdir] = contrib
-projects[apps][patch][] = https://gist.githubusercontent.com/jon-nunan/68d436eb9c88d07564ca685d809153a4/raw/477d5d92ae70258a0e631b721b0812fd77da7389/module-list9.patch
+projects[apps][patch][] = https://gist.githubusercontent.com/jon-nunan/585297dd762a23361a8bb8e94d111734/raw/33cbbb0320c829a4a107e2a14ae4bd15e4527ca9/module-list10.patch
 
 projects[features][version] = 2.10
 projects[features][subdir] = contrib
