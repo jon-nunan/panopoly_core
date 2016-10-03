@@ -5,7 +5,7 @@ core = 7.x
 
 ; Panels and Chaos Tools Magic
 
-projects[ctools][version] = 1.9
+projects[ctools][version] = 1.10
 projects[ctools][subdir] = contrib
 projects[ctools][patch][2209775] = https://www.drupal.org/files/issues/ctools-readd_access_callback_params-2209775-24.patch
 projects[ctools][patch][2607626] = https://www.drupal.org/files/issues/ctools-close-modal-2607626-5.patch
@@ -55,7 +55,7 @@ projects[pathauto][patch][936222] = http://drupal.org/files/issues/pathauto-pers
 projects[token][version] = 1.6
 projects[token][subdir] = contrib
 
-projects[entity][version] = 1.6
+projects[entity][version] = 1.8
 projects[entity][subdir] = contrib
 
 projects[libraries][version] = 2.2
